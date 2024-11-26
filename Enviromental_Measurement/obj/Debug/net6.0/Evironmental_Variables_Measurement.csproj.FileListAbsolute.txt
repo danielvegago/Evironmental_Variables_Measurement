@@ -1,0 +1,5 @@
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\obj\Debug\net6.0\Evironmental_Variables_Measurement.csproj.AssemblyReference.cache
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\obj\Debug\net6.0\Evironmental_Variables_Measurement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\obj\Debug\net6.0\Evironmental_Variables_Measurement.AssemblyInfoInputs.cache
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\obj\Debug\net6.0\Evironmental_Variables_Measurement.AssemblyInfo.cs
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\obj\Debug\net6.0\Evironmental_Variables_Measurement.csproj.CoreCompileInputs.cache

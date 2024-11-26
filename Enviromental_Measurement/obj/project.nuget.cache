@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "64cGkQ42jzFLy1/lywuk0DBOWGiyEe4NN0SjHh22IG8GEWdmfPmHeCwfXNeNwTmOTxYymnq1zRVGngqPr0zG1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Roxana\\Documents\\GitHub\\Evironmental_Variables_Measurement\\Enviromental_Measurement\\Enviromental_Measurement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roxana\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\9.0.0\\microsoft.entityframeworkcore.tools.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

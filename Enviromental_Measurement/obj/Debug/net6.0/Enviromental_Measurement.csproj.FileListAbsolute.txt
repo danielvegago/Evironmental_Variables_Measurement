@@ -1,0 +1,15 @@
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\obj\Debug\net6.0\Enviromental_Measurement.csproj.AssemblyReference.cache
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\obj\Debug\net6.0\Enviromental_Measurement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\obj\Debug\net6.0\Enviromental_Measurement.AssemblyInfoInputs.cache
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\obj\Debug\net6.0\Enviromental_Measurement.AssemblyInfo.cs
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\obj\Debug\net6.0\Enviromental_Measurement.csproj.CoreCompileInputs.cache
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\bin\Debug\net6.0\Enviromental_Measurement.exe
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\bin\Debug\net6.0\Enviromental_Measurement.deps.json
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\bin\Debug\net6.0\Enviromental_Measurement.runtimeconfig.json
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\bin\Debug\net6.0\Enviromental_Measurement.dll
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\bin\Debug\net6.0\Enviromental_Measurement.pdb
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\obj\Debug\net6.0\Enviromental_Measurement.dll
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\obj\Debug\net6.0\refint\Enviromental_Measurement.dll
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\obj\Debug\net6.0\Enviromental_Measurement.pdb
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\obj\Debug\net6.0\Enviromental_Measurement.genruntimeconfig.cache
+C:\Users\Roxana\Documents\GitHub\Evironmental_Variables_Measurement\Enviromental_Measurement\obj\Debug\net6.0\ref\Enviromental_Measurement.dll
